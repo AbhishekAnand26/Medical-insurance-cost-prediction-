@@ -1,7 +1,7 @@
 # Medical-insurance-cost-prediction-
 
 # Problem Statement
-As a Machine Learning (ML) Expert or Data Scientist (DS), the goal is to build an automated system that can accurately predict the medical insurance cost for an individual. A medical insurance company requires a solution that can learn from the data of their customers and predict the insurance cost based on a variety of factors such as health issues, gender, age, and other personal attributes.
+ The goal of this project is to create a machine learning model that accurately predicts medical insurance costs based on individual characteristics such as age, gender, BMI, and lifestyle factors. Insurance companies need an automated system to provide personalized premium estimates based on a customer’s health profile, enabling more efficient and data-driven pricing strategies.
 
 # Objective
 The objective of this project is to develop a machine learning model that can predict medical insurance costs, helping insurance companies to estimate premiums based on a customer’s health-related data.
